@@ -1,2 +1,1 @@
-# auto
-auto scripts
+Scripts of Udacity introduction to robotics.
